@@ -1,7 +1,10 @@
 # HelloWorld
-Hack1
+#include<stdlib.h>
+#include<stdio.h>
+// Edward Gonzalez Hack 1
 int main(int argc, char **argv)
+
 {
-printf("Hello World!");
-return 0;
+  printf("Edward Gonzalez, My major is Computer Science!");
+  return 0;
 }
